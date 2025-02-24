@@ -1,0 +1,30 @@
+#nav-services > a { text-decoration: underline }
+#nav-services .sub { display: block }
+
+article { margin: 0 }
+
+section.services {
+	display: flex;
+	flex-flow: column
+} section.services article { flex: 1 }
+	section.services article:target { order: -1 }
+/*
+     FILE ARCHIVED ON 08:25:54 Oct 08, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:40:18 Feb 24, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.52
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.016
+  esindex: 0.01
+  cdx.remote: 347.603
+  LoadShardBlock: 158.878 (3)
+  PetaboxLoader3.datanode: 163.118 (4)
+  load_resource: 126.2
+  PetaboxLoader3.resolve: 104.873
+*/

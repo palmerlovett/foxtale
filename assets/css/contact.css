@@ -1,0 +1,62 @@
+
+#nav-contact > a { text-decoration: underline }
+
+@media (max-width: 519px) {
+	.side-title { display: none }
+}
+
+
+#follow { margin-top: 25px }
+#follow li { padding: 0 }
+#follow a {
+	margin: 0;
+	padding: 8px 0;
+	font-size: 11px;
+}
+
+
+#follow .social {
+	position: relative;
+	bottom: 1px;
+	font-weight: 500;
+}#follow .social:before {
+		margin-right: 10px;
+		font-size: 15px;
+		font-weight: 400;
+		position: relative;
+		top: 2px;
+	}/*#follow .social:hover:after {
+		content: '➞';
+		margin-left: auto;
+		color: #666;
+		font-size: 15px;
+		font-family: arial;
+		margin-top: 0px;
+		position: absolute;
+		right: 0;
+	}*/
+
+#telephone-number a {
+	display: block;
+	letter-spacing: 0px
+}
+/*
+     FILE ARCHIVED ON 09:43:19 Oct 08, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:41:15 Feb 24, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.552
+  exclusion.robots: 0.024
+  exclusion.robots.policy: 0.014
+  esindex: 0.011
+  cdx.remote: 6.944
+  LoadShardBlock: 269.579 (3)
+  PetaboxLoader3.datanode: 322.116 (4)
+  load_resource: 182.153
+  PetaboxLoader3.resolve: 73.432
+*/

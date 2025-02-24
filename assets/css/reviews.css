@@ -1,0 +1,102 @@
+#nav-reviews > a { text-decoration: underline }
+#nav-reviews .sub { display: block }
+
+.banner {
+	margin-bottom: 20px;
+	position: relative
+}
+.banner h3 { display: none }
+.banner img {
+	width: 100%;
+	display: block
+}
+.banner a.block {
+	position: absolute;
+	right: 3px; bottom: 3px;
+	margin: 0;
+	width: 60px;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.5);
+	color: white
+}
+
+header.page.review { display: none }
+
+figcaption.video-desc header {
+	border-bottom: 1px solid #BBB;
+	margin-bottom: 8px;
+	padding-bottom: 8px;
+	overflow: auto
+}
+figcaption.video-desc header h3 { margin: -5px 0 5px 0 }
+
+figure.video figcaption:after {
+	content: ' ';
+	display: block;
+	width: 100%;
+	clear: both
+}
+
+@media (min-width: 600px) {
+	figure.video figcaption img.thumb { margin-right: 40px }
+}
+
+@media (min-width: 400px) {
+	figure.video figcaption { margin-top: 40px }
+}
+
+@media (max-width: 399px) {
+	figure.video figcaption h3 { margin-top: 20px }
+}
+
+.bio {
+	margin: 30px 0 20px 0;
+}
+.bio img.author {
+	width: 80px;
+	float: left;
+	margin: 0 15px 50px 0;
+	border: 1px solid #FCFCFC;
+	outline: 1px solid #333
+}
+.bio h5 {
+	margin: 0;
+	position: relative;
+	top: -3px;
+	font-family: 'Meta Pro';
+	font-style: italic;
+}
+.bio p {
+	font-family: 'Tofino';
+	font-size: 11px;
+	line-height: 1.5;
+}
+
+.bio:after {
+	content: ' ';
+	display: block;
+	clear: both;
+}
+
+
+
+/*
+     FILE ARCHIVED ON 09:43:25 Oct 08, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:40:52 Feb 24, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.723
+  exclusion.robots: 0.034
+  exclusion.robots.policy: 0.02
+  esindex: 0.013
+  cdx.remote: 25.135
+  LoadShardBlock: 252.047 (3)
+  PetaboxLoader3.datanode: 226.644 (4)
+  PetaboxLoader3.resolve: 133.042 (2)
+  load_resource: 128.194
+*/

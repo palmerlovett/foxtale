@@ -1,0 +1,81 @@
+#nav-about > a { text-decoration: underline }
+
+.bio {}
+	.bio header {
+		padding-bottom: 30px;
+		position: relative
+	} 
+	
+		.bio header .avatar img {
+			display: block;
+			width: 100%; max-width: 150px;
+			margin: auto;
+			border-radius: 100%;
+			overflow: hidden
+		}
+		.bio header .whois { text-align: center }
+		.bio header .whois h3 {
+			font-size: 150%;
+			padding-bottom: 4px
+		}
+	
+	.bio .story {
+		border-top: 1px solid #DDD;
+		padding-top: 15px;
+		clear: both
+	} .bio .story p {
+			font-family: 'Tofino';
+			font-size: 12px;
+			font-weight: 400;
+			line-height: 2.1;
+			text-align: justify
+		}.bio .story p:first-line {
+			font-weight: 500;
+			text-transform: uppercase;
+			line-height: 2.5;
+			color: #000
+		}
+
+.clickable:hover { cursor: pointer }
+
+.italic { font-style: italic }
+
+@media (min-width: 600px) {
+	.bio header .whois { text-align: left }
+	.bio header .avatar {
+		padding-right: 15px;
+		background: #FCFCFC;
+		float: left;
+		width: 25%; max-width: 75px
+	}
+
+	.bio header .whois { width: 100% }
+	.bio header .whois h3 { margin: -5px 0 0px 0 }
+}
+
+@media (min-width: 600px) { .bio header .whois h3 {	width: 90% } }
+
+@media (max-width: 660px) and (min-width: 600px) {
+	.bio header .whois h3 { font-size: 125% }
+	.bio header .whois .title { font-size: 90% }
+}
+/*
+     FILE ARCHIVED ON 05:12:22 Oct 08, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:41:05 Feb 24, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.704
+  exclusion.robots: 0.048
+  exclusion.robots.policy: 0.035
+  esindex: 0.011
+  cdx.remote: 98.842
+  LoadShardBlock: 2315.807 (3)
+  PetaboxLoader3.datanode: 2295.038 (4)
+  PetaboxLoader3.resolve: 156.616 (2)
+  load_resource: 281.827
+*/
