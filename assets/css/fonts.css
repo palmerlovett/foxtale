@@ -2,72 +2,54 @@
   font-family: 'Vevey';
   font-style: normal;
   font-weight: 400;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/vevey/400.woff2') format('woff2'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/vevey/400.woff')  format('woff'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/vevey/400.ttf')   format('truetype')
+  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/vevey/400.woff')  format('woff')
 }
 
 @font-face {
   font-family: 'Tofino';
   font-weight: 300;
   font-style: normal;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/300.woff2') format('woff2'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/300.woff')  format('woff'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/300.ttf')   format('truetype')
+  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/300.woff')  format('woff')
 } @font-face {
   font-family: 'Tofino';
   font-weight: 400;
   font-style: normal;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/400.woff2') format('woff2'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/400.woff')  format('woff'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/400.ttf')   format('truetype')
+  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/400.woff')  format('woff')
 } @font-face {
   font-family: 'Tofino';
   font-weight: 500;
   font-style: normal;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/500.woff2') format('woff2'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/500.woff')  format('woff'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/500.ttf')   format('truetype')
+  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/500.woff')  format('woff')
 }
 
 @font-face {
   font-family: 'Meta Pro';
   font-weight: 400;
   font-style: normal;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/400.woff2') format('woff2'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/400.woff')  format('woff'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/400.ttf')   format('truetype')
+  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/400.woff')  format('woff')
 } @font-face {
   font-family: 'Meta Pro';
   font-weight: 500;
   font-style: normal;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/500.woff2') format('woff2'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/500.woff')  format('woff'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/500.ttf')   format('truetype')
+  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/500.woff')  format('woff')
 }
 @font-face {
   font-family: 'Meta Pro';
   font-weight: 400;
   font-style: italic;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/i-400.woff2') format('woff2'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/i-400.woff')  format('woff'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/i-400.ttf')   format('truetype')
+  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/i-400.woff')  format('woff')
 } @font-face {
   font-family: 'Meta Pro';
   font-weight: 500;
   font-style: italic;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/i-500.woff2') format('woff2'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/i-500.woff')  format('woff'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/i-500.ttf')   format('truetype')
+  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/i-500.woff')  format('woff')
 } 
 
 @font-face {
   font-family: 'fontello';
   font-weight: normal;
   font-style: normal;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/fontello/400.woff2?88536538') format('woff2'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/fontello/400.woff?88536538')  format('woff'),
-       url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/fontello/400.ttf?88536538')   format('truetype')
+  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/fontello/400.woff?88536538')  format('woff')
 }
 .social:before { font-family: 'fontello' }
 .social.instagram:before { content: '\F32D' }
@@ -76,23 +58,3 @@
 .social.twitter:before   { content: '\F099' }
 .social.vimeo:before     { content: '\F27D' }
 .social.vine:before      { content: '\F1CA' }
-/*
-     FILE ARCHIVED ON 03:54:16 Dec 02, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:35:18 Feb 24, 2025.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 1.039
-  exclusion.robots: 0.065
-  exclusion.robots.policy: 0.05
-  esindex: 0.017
-  cdx.remote: 33.988
-  LoadShardBlock: 285.581 (3)
-  PetaboxLoader3.datanode: 519.059 (5)
-  PetaboxLoader3.resolve: 359.53 (3)
-  load_resource: 627.68 (2)
-*/
