@@ -1,55 +1,56 @@
+
 @font-face {
   font-family: 'Vevey';
   font-style: normal;
   font-weight: 400;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/vevey/400.woff')  format('woff')
+  src: url('/assets/fonts/vevey/400.woff')  format('woff')
 }
 
 @font-face {
   font-family: 'Tofino';
   font-weight: 300;
   font-style: normal;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/300.woff')  format('woff')
+  src: url('/assets/fonts/tofino/300.woff')  format('woff')
 } @font-face {
   font-family: 'Tofino';
   font-weight: 400;
   font-style: normal;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/400.woff')  format('woff')
+  src: url('/assets/fonts/tofino/400.woff')  format('woff')
 } @font-face {
   font-family: 'Tofino';
   font-weight: 500;
   font-style: normal;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/tofino/500.woff')  format('woff')
+  src: url('/assets/fonts/tofino/500.woff')  format('woff')
 }
 
 @font-face {
   font-family: 'Meta Pro';
   font-weight: 400;
   font-style: normal;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/400.woff')  format('woff')
+  src: url('/assets/fonts/meta-pro/400.woff')  format('woff')
 } @font-face {
   font-family: 'Meta Pro';
   font-weight: 500;
   font-style: normal;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/500.woff')  format('woff')
+  src: url('/assets/fonts/meta-pro/500.woff')  format('woff')
 }
 @font-face {
   font-family: 'Meta Pro';
   font-weight: 400;
   font-style: italic;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/i-400.woff')  format('woff')
+  src: url('/assets/fonts/meta-pro/i-400.woff')  format('woff')
 } @font-face {
   font-family: 'Meta Pro';
   font-weight: 500;
   font-style: italic;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/meta-pro/i-500.woff')  format('woff')
+  src: url('/assets/fonts/meta-pro/i-500.woff')  format('woff')
 } 
 
 @font-face {
   font-family: 'fontello';
   font-weight: normal;
   font-style: normal;
-  src: url('/web/20181202035416im_/http://foxtaleproduction.com/assets/fonts/fontello/400.woff?88536538')  format('woff')
+  src: url('/assets/fonts/fontello/400.woff?88536538')  format('woff')
 }
 .social:before { font-family: 'fontello' }
 .social.instagram:before { content: '\F32D' }
